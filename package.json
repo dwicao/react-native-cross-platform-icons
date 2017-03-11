@@ -1,11 +1,10 @@
 {
   "name": "react-native-cross-platform-icons",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "React Native Cross Platform Icons",
   "main": "dist/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "npm install --save react-native-vector-icons"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",

@@ -2,6 +2,8 @@
 
 A react-native wrapper component that displays the appropriate icon based on the current platform ( Android and iOS )
 
+![demo](https://raw.githubusercontent.com/dwicao/react-native-cross-platform-icons/master/demo.png)
+
 ## Running Example
 * `git clone https://github.com/dwicao/react-native-cross-platform-icons.git`
 * `cd example`

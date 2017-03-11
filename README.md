@@ -8,10 +8,14 @@ A react-native wrapper component that displays the appropriate icon based on the
 * `git clone https://github.com/dwicao/react-native-cross-platform-icons.git`
 * `cd example`
 * `npm install`
+* `react-native link`
 * `react-native run-android`
 
 ## Installation
-* `npm install --save react-native-cross-platform-icons`
+* `npm install --save react-native-cross-platform-icons react-native-vector-icons`
+
+## After Installation (this step is required)
+* `react-native link`  
 
 ## Usage
 ```js

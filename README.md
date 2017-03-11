@@ -23,7 +23,7 @@ class MyExample extends Component {
     render() {
         return (
             <View style={{ flex: 1 }}>
-                <CrossPlatformIcon name="home" size={45} color="black" />
+                <CrossPlatformIcon name="home" size={45} color="black" outline />
                 <CrossPlatformIcon name="arrow-back" size={40} color="#BADA55" />
             </View>
         );

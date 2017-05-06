@@ -1,8 +1,8 @@
 {
   "name": "react-native-cross-platform-icons",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "React Native Cross Platform Icons",
-  "main": "dist/main.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,7 +18,7 @@
     "icons"
   ],
   "files": [
-    "dist",
+    "src",
     "README.md"
   ],
   "author": "Lutfian Dwi Cahyono <lutfiandwica@gmail.com> (https://dwicao.github.io/)",
